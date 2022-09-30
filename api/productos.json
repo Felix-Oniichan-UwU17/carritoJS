@@ -1,0 +1,44 @@
+[
+    {
+        "title": "cafe",
+        "precio": 500,
+        "id": 1,
+        "url": "https://picsum.photos/id/0/600"
+    },
+    {
+        "title": "cafe helado",
+        "precio": 500,
+        "id": 2,
+        "url": "https://picsum.photos/id/1/600"
+    },
+    {
+        "title": "Té de manzanilla",
+        "precio": 500,
+        "id": 3,
+        "url": "https://picsum.photos/id/2/600"
+    },
+    {
+        "title": "Frappe",
+        "precio": 500,
+        "id": 4,
+        "url": "https://picsum.photos/id/3/600"
+    },
+    {
+        "title": "Chocolate abuelita",
+        "precio": 500,
+        "id": 5,
+        "url": "https://picsum.photos/id/4/600"
+    },
+    {
+        "title": "Té helado",
+        "precio": 500,
+        "id": 6,
+        "url": "https://picsum.photos/id/5/600"
+    },
+    {
+        "title": "Expreso",
+        "precio": 500,
+        "id": 7,
+        "url": "https://picsum.photos/id/6/600"
+    }
+]
